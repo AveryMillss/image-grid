@@ -46,6 +46,7 @@ section {
     display: inline-block;
     width: 50%;
   }
+
 }
 
 @media only screen and (min-width: 38em) {
@@ -63,6 +64,7 @@ section {
     display: inline-block;
     width: 33.3333%;
   }
+
 }
 
 @media only screen and (min-width: 60em) {
@@ -71,6 +73,7 @@ section {
     display: block;
     width: 66.6666%;
   }
+
   .photo:nth-child(2), .photo:nth-child(3), .photo:nth-child(4), .photo:nth-child(5) {
     display: block;
     width: 33.333%;
